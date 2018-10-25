@@ -1,5 +1,7 @@
 # Jargon-Terms-Explained  
 
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ## Software Engineering  
 - Perl: [Learn Perl in about 2 hours 30 minutes](https://qntm.org/files/perl/perl.html)  
 - Reactive Programming: [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  
